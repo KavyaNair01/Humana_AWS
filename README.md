@@ -87,9 +87,4 @@ The project is organized into the following sections:
 
 ---
 
-## Contact
-For any questions or further information, please contact [Your Name] at [Your Email].
-
----
-
 **Note**: This project was completed as part of the Humana-Mays Healthcare Analytics Competition 2024.
