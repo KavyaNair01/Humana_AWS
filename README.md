@@ -79,12 +79,4 @@ The project is organized into the following sections:
 
 ---
 
-## How to Use This Repository
-1. Clone the repository.
-2. Install the required dependencies (see `requirements.txt`).
-3. Explore the Jupyter notebooks for data preprocessing, modeling, and visualization.
-4. Refer to the full report for detailed insights and recommendations.
-
----
-
 **Note**: This project was completed as part of the Humana-Mays Healthcare Analytics Competition 2024.
